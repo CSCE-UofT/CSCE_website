@@ -26,10 +26,10 @@ const Join = () => {
               team environment.
             </p>
             <p>
-              <strong>Applications:</strong>We are recruiting right now!{' '}
-              {/* <LinkContainer to="/contact"> */}
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeRLH-tHixnNKYa-AGqmZB5r13nU5QR6A09Cj4ofFeDPlT0dg/viewform">Apply here!</a>
-              {/* </LinkContainer> */}
+              <strong>Applications:</strong>We are not recruiting right now, check in later this year for our second recruitment cycle!{' '}
+              <LinkContainer to="/contact">
+                <a > Contact us!</a>
+              </LinkContainer>
               .
             </p>
             {/* <Carousel>
