@@ -26,7 +26,7 @@ const Join = () => {
               team environment.
             </p>
             <p>
-              <strong>Applications:</strong>We are not recruiting right now, check in later this year for our second recruitment cycle!{' '}
+              <strong>Applications:</strong>We are looking for a first year rep!{' '}
               <LinkContainer to="/contact">
                 <a > Contact us!</a>
               </LinkContainer>
