@@ -20,5 +20,148 @@
     "linkedin": "https://www.linkedin.com/in/sunnyjennifer/",
     "twitter": "",
     "website": ""
+  },
+  {
+    "name": "Aral Isci",
+    "role": "Executives",
+    "position": "VP Community",
+    "discipline": "Civ 2T6 + PEY",
+    "bio": "Bio of Aral",
+    "imagePath": "./assets/headshots_2425/Copy of Aral.JPG",
+    "linkedin": "",
+    "twitter": "",
+    "website": ""
+  },
+  {
+    "name": "Abdullah Muhammad",
+    "role": "Executives",
+    "position": "Co - VP Professional Development",
+    "discipline": "Civ 2T4 + PEY",
+    "bio": "Bio of Abdullah",
+    "imagePath": "./assets/headshots_2425/Copy of Abdullah.JPG",
+    "linkedin": "",
+    "twitter": "",
+    "website": ""
+  },
+  {
+    "name": "Lucas Xie",
+    "role": "Executives",
+    "position": "Co - VP Professional Development",
+    "discipline": "Civ 2T7 + PEY",
+    "bio": "Bio of Lucas",
+    "imagePath": "./assets/headshots_2425/Copy of Lucas.JPG",
+    "linkedin": "",
+    "twitter": "",
+    "website": ""
+  },
+  {
+    "name": "David Qian",
+    "role": "Executives",
+    "position": "VP Finance",
+    "discipline": "Civ 2T6 + PEY",
+    "bio": "Bio of David",
+    "imagePath": "./assets/headshots_2425/Copy of David.JPG",
+    "linkedin": "",
+    "twitter": "",
+    "website": ""
+  },
+  {
+    "name": "Maria Vetrici",
+    "role": "Executives",
+    "position": "VP Marketing",
+    "discipline": "Civ 2T6 + PEY",
+    "bio": "Bio of Maria",
+    "imagePath": "./assets/headshots_2425/Copy of Maria.JPG",
+    "linkedin": "https://www.linkedin.com/in/mariavetrici",
+    "twitter": "",
+    "website": ""
+  },
+  {
+    "name": "Wael Halabi",
+    "role": "Executives",
+    "position": "VP Academic",
+    "discipline": "Civ 2T6 + PEY",
+    "bio": "Bio of Wael",
+    "imagePath": "./assets/headshots_2425/Copy of Wael.JPG",
+    "linkedin": "",
+    "twitter": "",
+    "website": ""
+  },
+  {
+    "name": "Sean Leung",
+    "role": "Executives",
+    "position": "VP Logistics",
+    "discipline": "Civ 2T6 + PEY",
+    "bio": "Bio of Sean",
+    "imagePath": "./assets/headshots_2425/Copy of Sean.JPG",
+    "linkedin": "",
+    "twitter": "",
+    "website": ""
+  },
+  {
+    "name": "Sydney Quach",
+    "role": "Executives",
+    "position": "VP External Relations",
+    "discipline": "Civ 2T5 + PEY",
+    "bio": "Bio of Sydney",
+    "imagePath": "",
+    "linkedin": "",
+    "twitter": "",
+    "website": ""
+  },
+  {
+    "name": "Sandhya Sookhoo",
+    "role": "Associates",
+    "position": "Community Associate",
+    "discipline": "Civ 2T4 + PEY",
+    "bio": "Bio of Sandhya",
+    "imagePath": "./assets/headshots_2425/Copy of Sandhya.JPG",
+    "linkedin": "",
+    "twitter": "",
+    "website": ""
+  },
+  {
+    "name": "Javeria Rashid",
+    "role": "Associates",
+    "position": "Marketing Associate",
+    "discipline": "Civ 2T7 + PEY",
+    "bio": "Bio of Javeria",
+    "imagePath": "./assets/headshots_2425/Copy of Javeria.JPG",
+    "linkedin": "",
+    "twitter": "",
+    "website": ""
+  },
+  {
+    "name": "Vida Vakili",
+    "role": "Associates",
+    "position": "Events Associate",
+    "discipline": "MASc",
+    "bio": "Bio of Vida",
+    "imagePath": "./assets/headshots_2425/Copy of Vida.JPG",
+    "linkedin": "",
+    "twitter": "",
+    "website": ""
+  },
+  {
+    "name": "Mahi Shukla",
+    "role": "Associates",
+    "position": "First Year Associate",
+    "discipline": "Civ 2T8 + PEY",
+    "bio": "Bio of Mahi",
+    "imagePath": "",
+    "linkedin": "",
+    "twitter": "",
+    "website": ""
+  },
+  {
+    "name": "Sadia Salwoa Saika",
+    "role": "Associates",
+    "position": "Co-op Strategist & Event Coordinator",
+    "discipline": "Civ 2T4 + PEY",
+    "bio": "Bio of Sadia",
+    "imagePath": "./assets/headshots_2425/Copy of Saika.JPG",
+    "linkedin": "",
+    "twitter": "",
+    "website": ""
   }
 ]
