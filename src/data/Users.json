@@ -23,7 +23,7 @@
   },
   {
     "name": "Aral Isci",
-    "role": "Executives",
+    "role": "Executive",
     "position": "VP Community",
     "discipline": "Civ 2T6 + PEY",
     "bio": "Bio of Aral",
@@ -34,18 +34,18 @@
   },
   {
     "name": "Abdullah Muhammad",
-    "role": "Executives",
+    "role": "Executive",
     "position": "Co - VP Professional Development",
     "discipline": "Civ 2T4 + PEY",
     "bio": "Bio of Abdullah",
-    "imagePath": "./assets/headshots_2425/Copy of Abdullah.JPG",
+    "imagePath": "./assets/headshots_2425/Copy of Abdullah.jpg",
     "linkedin": "",
     "twitter": "",
     "website": ""
   },
   {
     "name": "Lucas Xie",
-    "role": "Executives",
+    "role": "Executive",
     "position": "Co - VP Professional Development",
     "discipline": "Civ 2T7 + PEY",
     "bio": "Bio of Lucas",
@@ -56,7 +56,7 @@
   },
   {
     "name": "David Qian",
-    "role": "Executives",
+    "role": "Executive",
     "position": "VP Finance",
     "discipline": "Civ 2T6 + PEY",
     "bio": "Bio of David",
@@ -67,7 +67,7 @@
   },
   {
     "name": "Maria Vetrici",
-    "role": "Executives",
+    "role": "Executive",
     "position": "VP Marketing",
     "discipline": "Civ 2T6 + PEY",
     "bio": "Bio of Maria",
@@ -78,7 +78,7 @@
   },
   {
     "name": "Wael Halabi",
-    "role": "Executives",
+    "role": "Executive",
     "position": "VP Academic",
     "discipline": "Civ 2T6 + PEY",
     "bio": "Bio of Wael",
@@ -89,7 +89,7 @@
   },
   {
     "name": "Sean Leung",
-    "role": "Executives",
+    "role": "Executive",
     "position": "VP Logistics",
     "discipline": "Civ 2T6 + PEY",
     "bio": "Bio of Sean",
@@ -100,7 +100,7 @@
   },
   {
     "name": "Sydney Quach",
-    "role": "Executives",
+    "role": "Executive",
     "position": "VP External Relations",
     "discipline": "Civ 2T5 + PEY",
     "bio": "Bio of Sydney",
@@ -111,7 +111,7 @@
   },
   {
     "name": "Sandhya Sookhoo",
-    "role": "Associates",
+    "role": "Associate",
     "position": "Community Associate",
     "discipline": "Civ 2T4 + PEY",
     "bio": "Bio of Sandhya",
@@ -122,7 +122,7 @@
   },
   {
     "name": "Javeria Rashid",
-    "role": "Associates",
+    "role": "Associate",
     "position": "Marketing Associate",
     "discipline": "Civ 2T7 + PEY",
     "bio": "Bio of Javeria",
@@ -133,7 +133,7 @@
   },
   {
     "name": "Vida Vakili",
-    "role": "Associates",
+    "role": "Associate",
     "position": "Events Associate",
     "discipline": "MASc",
     "bio": "Bio of Vida",
@@ -144,7 +144,7 @@
   },
   {
     "name": "Mahi Shukla",
-    "role": "Associates",
+    "role": "Associate",
     "position": "First Year Associate",
     "discipline": "Civ 2T8 + PEY",
     "bio": "Bio of Mahi",
@@ -155,7 +155,7 @@
   },
   {
     "name": "Sadia Salwoa Saika",
-    "role": "Associates",
+    "role": "Associate",
     "position": "Co-op Strategist & Event Coordinator",
     "discipline": "Civ 2T4 + PEY",
     "bio": "Bio of Sadia",
