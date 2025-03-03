@@ -15,6 +15,21 @@
     "eventRegisterLink": "https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__iugaZ1URFZVTDBTTVE3OVZHTUU2WEZIQ1VOWVQwMS4u&route=shorturl"
   },
   {
+    "eventPoster": "./assets/event_posters/coffee_chat_newsletter.png",
+    "eventName": "CSCE Coffee Chats",
+    "eventDate": "Ongoing",
+    "eventStartTime": "",
+    "eventEndTime": "",
+    "eventLocation": "Zoom",
+    "eventAddress": "Online",
+    "eventDescription": "Sign up for coffee chats with our CivMin profs to get ALL your questions answered!",
+    "eventTypes": [
+      "Information Session",
+      "Panel"
+    ],
+    "eventRegisterLink": "https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__iugaZ1URFQ5OUVTWERJVTNZVlQ0STQxWVU0VUs2NS4u&fbclid=PAZXh0bgNhZW0CMTEAAaY18ISMGQQyhHOzooCc2yVZViCuZIjEf9EYzes-uWrvzDQbtS9ERW16xdk_aem_vMnTnI_QpVcLPJhJ9y1IzQ&route=shorturl"
+  },
+  {
     "eventPoster": "./assets/event_posters/2024_Research_Panel.jpg",
     "eventName": "CSCE Research Panel",
     "eventDate": "February 06, 2024",
