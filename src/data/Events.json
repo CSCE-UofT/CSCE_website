@@ -17,12 +17,12 @@
   {
     "eventPoster": "./assets/event_posters/coffee_chat_newsletter.png",
     "eventName": "CSCE Coffee Chats",
-    "eventDate": "",
+    "eventDate": "March 20 2025",
     "eventStartTime": "",
     "eventEndTime": "",
     "eventLocation": "Zoom",
     "eventAddress": "Online",
-    "eventDescription": "Sign up for coffee chats with our CivMin profs to get ALL your questions answered!",
+    "eventDescription": "[ONGOING] Sign up for coffee chats with our CivMin profs to get ALL your questions answered!",
     "eventTypes": [
       "Information Session",
       "Panel"
