@@ -17,7 +17,7 @@ const Footer = () => {
               />
             </div>
             <div className="col-lg-8 col-md-8 col-sm-12 pt-3 d-flex align-items-center justify-content-center">
-              &nbsp; &copy; 2023 CSCE University of Toronto Student Branch
+              &nbsp; &copy; 2025 CSCE University of Toronto Student Branch
             </div>
             <div className="col-lg-2 col-md-2 col-sm-12 pt-3 d-flex align-items-center justify-content-center icons">
               <a
