@@ -1,5 +1,20 @@
 [
   {
+    "eventPoster": "./assets/event_posters/Hiring 25-26 post v4.png",
+    "eventName": "Join CSCE's 2025-26 Team!",
+    "eventDate": "May 17, 2025",
+    "eventStartTime": "11:58 p.m.",
+    "eventEndTime": "11:59 p.m.",
+    "eventLocation": "Zoom",
+    "eventAddress": "Online",
+    "eventDescription": "Apply to join UofT's chapter of the broader Canadian Society of Civil Engineers! No need to be a CIV :)",
+    "eventTypes": [
+      "Information Session",
+      "Panel"
+    ],
+    "eventRegisterLink": "https://docs.google.com/forms/d/e/1FAIpQLSfNwXl1DIblnzAVWv63JmUKNiAtFeykSzrlRkjoYqV4CPcR3g/viewform?usp=dialog"
+  },
+  {
     "eventPoster": "./assets/event_posters/research_panel_2025.png",
     "eventName": "CSCE Research Panel",
     "eventDate": "March 06, 2025",
