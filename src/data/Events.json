@@ -1,4 +1,18 @@
 [
+   {
+    "eventPoster": "./assets/event_posters/resume_review2.pmg",
+    "eventName": "Resume Review!",
+    "eventDate": "Sep 22, 2025",
+    "eventStartTime": "6:00 p.m.",
+    "eventEndTime": "8:00 p.m.",
+    "eventLocation": "GB217",
+    "eventAddress": "",
+    "eventDescription": "Get resume advice from HR recruiters from EllisDon!",
+    "eventTypes": [
+      "Information Session"
+    ],
+    "eventRegisterLink": "https://docs.google.com/forms/d/e/1FAIpQLSdEKUuDvaPoLiYVtHqDutFTltaKNp90fQKwqOAnmrc83txATg/viewform?usp=header"
+  },
   {
     "eventPoster": "./assets/event_posters/Hiring 25-26 post v4.JPG",
     "eventName": "Join CSCE's 2025-26 Team!",
