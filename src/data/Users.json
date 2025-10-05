@@ -28,7 +28,7 @@
     "discipline": "Civ 2T7 + PEY",
     "bio": "Bio of Lucas",
     "imagePath": "./assets/headshots_2425/0Lucas.jpg",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/lucas-xie-65b080291/",
     "twitter": "",
     "website": ""
   },
@@ -39,7 +39,7 @@
     "discipline": "Civ 2T8 + PEY",
     "bio": "Bio of Mahi",
     "imagePath": "./assets/headshots_2425/0Mahi.jpg",
-    "linkedin": "",
+    "linkedin": "https://www.linkedin.com/in/mahi-shukla-551886316/?originalSubdomain=ca",
     "twitter": "",
     "website": ""
   },
@@ -176,6 +176,7 @@
     "website": ""
   }
 ]
+
 
 
 
