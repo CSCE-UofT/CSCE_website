@@ -6,8 +6,8 @@
     "discipline": "Civ 2T4 + PEY",
     "bio": "Bio for Hoda",
     "imagePath": "./assets/headshots_2425/0Maria_edited.jpg",
-    "linkedin": "https://www.linkedin.com/in/hoda-eissa-b26621215/",
-    "twitter": "https://www.linkedin.com/in/mariavetrici/",
+    "linkedin": "https://www.linkedin.com/in/mariavetrici/",
+    "twitter": "",
     "website": ""
   },
   {
@@ -49,7 +49,7 @@
     "position": "VP Finance",
     "discipline": "Civ 2T6 + PEY",
     "bio": "Bio of David",
-    "imagePath": "./assets/headshots_2425/0David.jpg",
+    "imagePath": "./assets/headshots_2425/0David_edited.jpg",
     "linkedin": "",
     "twitter": "",
     "website": ""
@@ -104,7 +104,7 @@
     "position": "VP External Relations",
     "discipline": "Civ 2T7 + PEY",
     "bio": "Bio of Alex",
-    "imagePath": "./assets/headshots_2425/0Alex.jpg",
+    "imagePath": "./assets/headshots_2425/0Alex_edited.jpg",
     "linkedin": "",
     "twitter": "",
     "website": ""
@@ -126,7 +126,7 @@
     "position": "External Relations Advisor",
     "discipline": "Civ 2T5 + PEY",
     "bio": "Bio of Sydney",
-    "imagePath": "",
+    "imagePath": "./assets/headshots_2425/0Sydney.jpg",
     "linkedin": "",
     "twitter": "",
     "website": ""
@@ -148,7 +148,7 @@
     "position": "Academia Associate",
     "discipline": "Civ 2T8 + PEY",
     "bio": "Bio of Jonathan",
-    "imagePath": "",
+    "imagePath": ""./assets/headshots_2425/0Jonathan.jpg"",
     "linkedin": "",
     "twitter": "",
     "website": ""
@@ -176,6 +176,7 @@
     "website": ""
   }
 ]
+
 
 
 
