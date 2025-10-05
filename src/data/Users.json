@@ -148,7 +148,7 @@
     "position": "Academia Associate",
     "discipline": "Civ 2T8 + PEY",
     "bio": "Bio of Jonathan",
-    "imagePath": ""./assets/headshots_2425/0Jonathan.jpg"",
+    "imagePath": "./assets/headshots_2425/0Jonathan.jpg",
     "linkedin": "",
     "twitter": "",
     "website": ""
@@ -176,6 +176,7 @@
     "website": ""
   }
 ]
+
 
 
 
