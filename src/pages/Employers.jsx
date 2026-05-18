@@ -60,7 +60,7 @@ const Employers = () => {
           <p className="text-center mb-4">
             We are proud to have worked with these employers in the 2025-2026 academic year:
           </p>
-          {companies20252026.map((company, idx) => (
+          {companies202526.map((company, idx) => (
             <Col key={idx} sm={12} md={5} lg={2} className="px-4 my-3">
               <Image
                 src={`./assets/companies/${company}`}
