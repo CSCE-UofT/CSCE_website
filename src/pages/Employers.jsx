@@ -10,6 +10,14 @@ const Employers = () => {
     'MattamyHomes.jpg',
     'Ontario.jpg',
   ];
+  const companies202526 = [
+    'Alberici.jpg',
+    'ausenco.jpg',
+    'jacobs.jpg',
+    'Pomerleau_BLEU_RGB.png',
+    'Webuild.png',
+    'MattamyHomes.jpg',
+  ];
 
   return (
     <div className="employer">
@@ -32,6 +40,8 @@ const Employers = () => {
               partnerships for this program.
             </p>
             <p>
+              We also host events in partnership with civil engineering companies, like our 2026 Resume Review alongside Jacobs, which was well-attended and received positive feedback from students.
+              Other past events include our 2026 Industry Night with Ausenco and Alberici and our Interview Workshop with Jacobs.
               In addition, we host a career fair every January, providing
               employers with a great opportunity to engage with our students,
               present their companies, and discuss potential career paths.
@@ -47,6 +57,17 @@ const Employers = () => {
           </Col>
         </Row>
         <Row className="employer-card shadow-lg pt-3 justify-content-md-center">
+          <p className="text-center mb-4">
+            We are proud to have worked with these employers in the 2025-2026 academic year:
+          </p>
+          {companies20252026.map((company, idx) => (
+            <Col key={idx} sm={12} md={5} lg={2} className="px-4 my-3">
+              <Image
+                src={`./assets/companies/${company}`}
+                alt={company}
+                className="company-img"
+              />
+            </Col>
           <p className="text-center mb-4">
             We are proud to have previously worked with these employers:
           </p>
