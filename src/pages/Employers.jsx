@@ -68,6 +68,7 @@ const Employers = () => {
                 className="company-img"
               />
             </Col>
+      ))}
           <p className="text-center mb-4">
             We are proud to have previously worked with these employers:
           </p>
