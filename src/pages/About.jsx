@@ -146,7 +146,7 @@ const About = () => {
             <h1>Who Are We?</h1>
             <p className="lead">
               We are the University of Toronto student-ran branch of the
-              Canadian Society of Civil Engineers (CSCE). We are a networking
+              Canadian Society for Civil Engineering (CSCE). We are a networking
               club for civil engineering students! We help students discover
               different career paths by:
               <ul>
