@@ -68,6 +68,26 @@ function Mentorship() {
                   src="./assets/industrymixer.jpg"
                   rounded
                 />
+                <iframe
+                  className=""
+                  src="./assets/mentee-book.pdf"
+                  style={{
+                    width: '100%',
+                    height: '3250px',
+                  }}
+                >
+                  Loading…
+                </iframe>
+                  <iframe
+                  className=""
+                  src="./assets/mentor-book.pdf"
+                  style={{
+                    width: '100%',
+                    height: '3250px',
+                  }}
+                >
+                  Loading…
+                </iframe>
               </Card.Body>
             </Card>
           </Col>
