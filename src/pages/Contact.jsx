@@ -35,7 +35,7 @@ const Contact = () => {
     // Send a POST request to FormSubmit
     console.log(data);
     const response = await fetch(
-      'https://formsubmit.co/ajax/jennifer.sunny@mail.utoronto.ca',
+      'https://formsubmit.co/ajax/csce@g.skule.ca',
       {
         method: 'POST',
         headers: {
