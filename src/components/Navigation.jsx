@@ -20,10 +20,10 @@ const Navigation = () => {
   if (location.pathname === '/about' || location.pathname === '/employers') {
     fixedNavStyle += 'dark shadow';
     buttonStyle = 'dark';
-    logoWords = './assets/LogoWordsOnlyWhite.png';
+    logoWords = './assets/CSCE-words-white.png';
   } else {
     buttonStyle = 'success';
-    logoWords = './assets/LogoWordsOnly.png';
+    logoWords = './assets/CSCE-words-dark.png';
   }
 
   useEffect(() => {
@@ -50,7 +50,7 @@ const Navigation = () => {
         <Navbar.Brand>
           <LinkContainer to="/">
             <img
-              src={'./assets/logoCroppedWhiteFilled.svg'}
+              src={'./assets/CSCE-logo-icon.png'}
               className={
                 navbar ? 'NavLogoSmall img-fluid' : 'NavLogo img-fluid'
               }
