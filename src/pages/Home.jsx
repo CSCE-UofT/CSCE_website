@@ -30,7 +30,7 @@ const Home = () => {
             <div className="col-lg-6">
               <h1 className="display-5 lh-1 mb-3">Learn. Develop. Connect.</h1>
               <p className="lead">
-                Welcome to the Canadian Society for Civil Engineers.
+                Welcome to the Canadian Society for Civil Engineering.
               </p>
               <div className="d-grid gap-2 d-md-flex justify-content-md-start">
                 <LinkContainer to="/mentorship">
@@ -41,7 +41,7 @@ const Home = () => {
                     Become a Mentee!
                   </button>
                 </LinkContainer>
-                <LinkContainer to="/about">
+                <LinkContainer to="/employers">
                   <button
                     type="button"
                     className="btn btn-outline-secondary btn-lg px-4"
