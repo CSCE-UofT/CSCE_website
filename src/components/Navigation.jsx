@@ -50,7 +50,7 @@ const Navigation = () => {
         <Navbar.Brand>
           <LinkContainer to="/">
             <img
-              src={'./assets/CSCE-logo-icon.png'}
+              src={'./assets/logo-icon.svg'}
               className={
                 navbar ? 'NavLogoSmall img-fluid' : 'NavLogo img-fluid'
               }
