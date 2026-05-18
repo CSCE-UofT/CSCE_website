@@ -11,9 +11,9 @@ const Employers = () => {
     'Ontario.jpg',
   ];
   const companies202526 = [
-    'Alberici.jpg',
-    'ausenco.jpg',
-    'jacobs.jpg',
+    'Alberici.png',
+    'ausenco.png',
+    'jacobs.png',
     'Pomerleau_BLEU_RGB.png',
     'Webuild.png',
     'MattamyHomes.jpg',
