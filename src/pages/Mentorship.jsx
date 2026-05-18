@@ -73,7 +73,9 @@ function Mentorship() {
                   src="./assets/mentee-book.pdf"
                   style={{
                     width: '100%',
-                    height: '3250px',
+                    height: '1660px',
+                    border: none,
+                    title: "PDF Document",
                   }}
                 >
                   Loading…
@@ -83,7 +85,9 @@ function Mentorship() {
                   src="./assets/mentor-book.pdf"
                   style={{
                     width: '100%',
-                    height: '3250px',
+                    height: '1660px',
+                    border: none,
+                    title: "PDF Document",
                   }}
                 >
                   Loading…
