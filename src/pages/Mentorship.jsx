@@ -74,8 +74,6 @@ function Mentorship() {
                   style={{
                     width: '100%',
                     height: '1660px',
-                    border: none,
-                    title: "PDF Document",
                   }}
                 >
                   Loading…
@@ -86,8 +84,6 @@ function Mentorship() {
                   style={{
                     width: '100%',
                     height: '1660px',
-                    border: none,
-                    title: "PDF Document",
                   }}
                 >
                   Loading…
